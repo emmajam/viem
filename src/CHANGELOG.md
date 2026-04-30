@@ -1,5 +1,11 @@
 # viem
 
+## 2.48.5
+
+### Patch Changes
+
+- [#4559](https://github.com/wevm/viem/pull/4559) [`8d8f243d08757f115fccca7f4e644996e954d0b0`](https://github.com/wevm/viem/commit/8d8f243d08757f115fccca7f4e644996e954d0b0) Thanks [@jxom](https://github.com/jxom)! - Added override for `zoneModerato(6)` (`Zone A`) and `zoneModerato(7)` (`Zone B`) names and RPC URLs.
+
 ## 2.48.4
 
 ### Patch Changes
